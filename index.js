@@ -9,3 +9,7 @@ getUKTime();
 function discountTicket(originalPrice){
   return originalPrice * .8;
 }
+
+function tweetReply(name){
+  return "Hey " + name + ", thanks so much for the support! I really appreciate it!";
+}
