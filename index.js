@@ -3,5 +3,5 @@ function getUKTime(){
   new Date().getHours() + 5;
 }
 
-getUKTime(50);
+getUKTime();
 
