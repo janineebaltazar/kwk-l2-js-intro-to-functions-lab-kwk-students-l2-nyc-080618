@@ -6,3 +6,6 @@ function getUKTime(){
 
 getUKTime();
 
+function discountTicket(originalPrice){
+  return originalPrice * .8;
+}
